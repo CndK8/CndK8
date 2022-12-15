@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CndK8
 - 👀 I’m interested in Php and AI technology.
 - 🌱 I’m currently learning Java and Python and Ruby.
-- 💞️ I’m looking to collaborate on Ruby engineers association.
+- 💞️ I’m looking to collaborate on Ruby engineers association And IBM system developers.
 - 📫 for inquiries, dial 09081581618.
 
 <!---
